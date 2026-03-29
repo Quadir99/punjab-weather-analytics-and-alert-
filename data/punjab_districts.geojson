@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "district": "Ludhiana" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.70,30.78],[76.02,30.78],[76.02,31.02],[75.70,31.02],[75.70,30.78]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Amritsar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.70,31.50],[75.00,31.50],[75.00,31.76],[74.70,31.76],[74.70,31.50]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Bathinda" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.78,30.08],[75.10,30.08],[75.10,30.34],[74.78,30.34],[74.78,30.08]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Patiala" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.18,30.20],[76.58,30.20],[76.58,30.48],[76.18,30.48],[76.18,30.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Jalandhar" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.40,31.18],[75.74,31.18],[75.74,31.48],[75.40,31.48],[75.40,31.18]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Mansa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.22,29.86],[75.58,29.86],[75.58,30.14],[75.22,30.14],[75.22,29.86]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Barnala" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.38,30.24],[75.72,30.24],[75.72,30.50],[75.38,30.50],[75.38,30.24]]]
+      }
+    }
+  ]
+}
